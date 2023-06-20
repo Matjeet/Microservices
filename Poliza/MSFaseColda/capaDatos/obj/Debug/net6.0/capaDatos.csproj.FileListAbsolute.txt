@@ -1,0 +1,15 @@
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaDatos\bin\Debug\net6.0\capaDatos.deps.json
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaDatos\bin\Debug\net6.0\capaDatos.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaDatos\bin\Debug\net6.0\capaDatos.pdb
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaDatos\bin\Debug\net6.0\capaNegocio.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaDatos\bin\Debug\net6.0\capaNegocio.pdb
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaDatos\obj\Debug\net6.0\capaDatos.csproj.AssemblyReference.cache
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaDatos\obj\Debug\net6.0\capaDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaDatos\obj\Debug\net6.0\capaDatos.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaDatos\obj\Debug\net6.0\capaDatos.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaDatos\obj\Debug\net6.0\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaDatos\obj\Debug\net6.0\capaDatos.csproj.CopyComplete
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaDatos\obj\Debug\net6.0\capaDatos.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaDatos\obj\Debug\net6.0\refint\capaDatos.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaDatos\obj\Debug\net6.0\capaDatos.pdb
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaDatos\obj\Debug\net6.0\ref\capaDatos.dll

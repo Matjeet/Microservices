@@ -1,0 +1,12 @@
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaNegocio\bin\Debug\net6.0\capaNegocio.deps.json
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaNegocio\bin\Debug\net6.0\capaNegocio.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaNegocio\bin\Debug\net6.0\capaNegocio.pdb
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaNegocio\obj\Debug\net6.0\capaNegocio.csproj.AssemblyReference.cache
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaNegocio\obj\Debug\net6.0\capaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaNegocio\obj\Debug\net6.0\capaNegocio.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaNegocio\obj\Debug\net6.0\capaNegocio.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaNegocio\obj\Debug\net6.0\capaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaNegocio\obj\Debug\net6.0\capaNegocio.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaNegocio\obj\Debug\net6.0\refint\capaNegocio.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaNegocio\obj\Debug\net6.0\capaNegocio.pdb
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSFaseColda\capaNegocio\obj\Debug\net6.0\ref\capaNegocio.dll

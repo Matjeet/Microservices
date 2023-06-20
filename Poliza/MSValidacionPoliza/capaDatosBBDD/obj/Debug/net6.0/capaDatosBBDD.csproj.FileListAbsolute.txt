@@ -1,0 +1,15 @@
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosBBDD\bin\Debug\net6.0\capaDatosBBDD.deps.json
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosBBDD\bin\Debug\net6.0\capaDatosBBDD.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosBBDD\bin\Debug\net6.0\capaDatosBBDD.pdb
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosBBDD\bin\Debug\net6.0\capaNegocio.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosBBDD\bin\Debug\net6.0\capaNegocio.pdb
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosBBDD\obj\Debug\net6.0\capaDatosBBDD.csproj.AssemblyReference.cache
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosBBDD\obj\Debug\net6.0\capaDatosBBDD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosBBDD\obj\Debug\net6.0\capaDatosBBDD.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosBBDD\obj\Debug\net6.0\capaDatosBBDD.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosBBDD\obj\Debug\net6.0\capaDatosBBDD.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosBBDD\obj\Debug\net6.0\capaDatosBBDD.csproj.CopyComplete
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosBBDD\obj\Debug\net6.0\capaDatosBBDD.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosBBDD\obj\Debug\net6.0\refint\capaDatosBBDD.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosBBDD\obj\Debug\net6.0\capaDatosBBDD.pdb
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosBBDD\obj\Debug\net6.0\ref\capaDatosBBDD.dll

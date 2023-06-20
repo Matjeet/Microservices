@@ -1,0 +1,15 @@
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSReservas\CapaDatosHabitacion\bin\Debug\net6.0\CapaDatosHabitacion.deps.json
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSReservas\CapaDatosHabitacion\bin\Debug\net6.0\CapaDatosHabitacion.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSReservas\CapaDatosHabitacion\bin\Debug\net6.0\CapaDatosHabitacion.pdb
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSReservas\CapaDatosHabitacion\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSReservas\CapaDatosHabitacion\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSReservas\CapaDatosHabitacion\obj\Debug\net6.0\CapaDatosHabitacion.csproj.AssemblyReference.cache
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSReservas\CapaDatosHabitacion\obj\Debug\net6.0\CapaDatosHabitacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSReservas\CapaDatosHabitacion\obj\Debug\net6.0\CapaDatosHabitacion.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSReservas\CapaDatosHabitacion\obj\Debug\net6.0\CapaDatosHabitacion.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSReservas\CapaDatosHabitacion\obj\Debug\net6.0\CapaDatosHabitacion.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSReservas\CapaDatosHabitacion\obj\Debug\net6.0\CapaDatosHabitacion.csproj.CopyComplete
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSReservas\CapaDatosHabitacion\obj\Debug\net6.0\CapaDatosHabitacion.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSReservas\CapaDatosHabitacion\obj\Debug\net6.0\refint\CapaDatosHabitacion.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSReservas\CapaDatosHabitacion\obj\Debug\net6.0\CapaDatosHabitacion.pdb
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSReservas\CapaDatosHabitacion\obj\Debug\net6.0\ref\CapaDatosHabitacion.dll

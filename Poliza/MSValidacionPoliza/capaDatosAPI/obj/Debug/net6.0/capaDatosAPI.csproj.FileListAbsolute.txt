@@ -1,0 +1,15 @@
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosAPI\bin\Debug\net6.0\capaDatosAPI.deps.json
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosAPI\bin\Debug\net6.0\capaDatosAPI.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosAPI\bin\Debug\net6.0\capaDatosAPI.pdb
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosAPI\bin\Debug\net6.0\capaNegocio.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosAPI\bin\Debug\net6.0\capaNegocio.pdb
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosAPI\obj\Debug\net6.0\capaDatosAPI.csproj.AssemblyReference.cache
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosAPI\obj\Debug\net6.0\capaDatosAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosAPI\obj\Debug\net6.0\capaDatosAPI.AssemblyInfoInputs.cache
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosAPI\obj\Debug\net6.0\capaDatosAPI.AssemblyInfo.cs
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosAPI\obj\Debug\net6.0\capaDatosAPI.csproj.CoreCompileInputs.cache
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosAPI\obj\Debug\net6.0\capaDatosAPI.csproj.CopyComplete
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosAPI\obj\Debug\net6.0\capaDatosAPI.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosAPI\obj\Debug\net6.0\refint\capaDatosAPI.dll
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosAPI\obj\Debug\net6.0\capaDatosAPI.pdb
+C:\Users\mateo\OneDrive\Documentos\Universidad\Arquitectura de software\MSValidacionPoliza\capaDatosAPI\obj\Debug\net6.0\ref\capaDatosAPI.dll
